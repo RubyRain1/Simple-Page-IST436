@@ -1,0 +1,13 @@
+body{
+    background-color: #5B4965;
+    color: blanchedalmond;
+}
+
+/* this is an ugly border but I wanted it to be visible */
+table,
+th,
+td{
+    border: 1px solid white;
+    border-collapse:separate;
+    padding: 3px;
+}
